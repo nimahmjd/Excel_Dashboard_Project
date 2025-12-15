@@ -15,5 +15,10 @@ This project showcases an interactive Excel dashboard designed to analyze and vi
 - Built KPI-focused visualizations
 - Enabled user-friendly interaction using slicers
 
+
+## Dashboard Preview
+![Dashboard](Dashboard%20Overview%20(2).png)
+
 ## File
-- SALES DASHBOARD IN EXCEL.xlsx
+- 'SALES_DASHBOARD_IN_EXCEL'.xlsx
+
