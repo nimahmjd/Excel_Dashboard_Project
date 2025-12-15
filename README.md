@@ -20,6 +20,7 @@ This project showcases an interactive Excel dashboard designed to analyze and vi
 ![Dashboard](Dashboard%20Overview%20(2).png)
 
 ## File
- [SALES_DASHBOARD_IN_EXCEL.xlsx](SALES_DASHBOARD_IN_EXCEL.xlsx)
+- [Sales Dashboard (Excel)](SALES%20DASHBOARD%20IN%20EXCEL.xlsx)
+
 
 
